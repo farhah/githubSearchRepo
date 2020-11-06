@@ -1,12 +1,12 @@
 # server
 Open vue.config.js and set the port to 8080
-
+```
 module.exports = {
   devServer: {
     port: 8080
   }
 }
-
+```
 ## Project setup
 ```
 npm install
