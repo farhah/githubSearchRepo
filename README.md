@@ -1,4 +1,4 @@
-# Github search repo by topic or language
+# Github search repo by topic and/or language
 
 There are two parts
 1. api - querying github api and authentication
